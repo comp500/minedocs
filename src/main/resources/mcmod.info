@@ -1,0 +1,8 @@
+[{
+  "modid": "minedocs",
+  "name": "MineDocs",
+  "description": "Like devdocs, but for minecraft mods!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "authorList": ["comp500"]
+}]
